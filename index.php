@@ -25,7 +25,7 @@
       <div id="header">
         <table class="tableHeader">
           <tr>
-            <td><img src="img/omni.png" alt="omni"></td>
+            <td><img src="omni.png" alt="omni"></td>
           </tr>
         </table>
           </td>
